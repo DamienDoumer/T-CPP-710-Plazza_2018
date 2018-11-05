@@ -1,0 +1,3 @@
+/Users/Tuncay/Desktop/T-CPP-710-Plazza_2018/Plazza/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Tuncay/Desktop/T-CPP-710-Plazza_2018/Plazza/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Tuncay/Desktop/T-CPP-710-Plazza_2018/Plazza/cmake-build-debug/CMakeFiles/Plazza.dir

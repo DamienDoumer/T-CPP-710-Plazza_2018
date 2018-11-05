@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Tuncay/Desktop/T-CPP-710-Plazza_2018/Plazza/Error.cpp
+exception
+-
+iostream
+-
+
+/Users/Tuncay/Desktop/T-CPP-710-Plazza_2018/Plazza/ParserConfig.cpp
+include/ParserConfig.h
+/Users/Tuncay/Desktop/T-CPP-710-Plazza_2018/Plazza/include/ParserConfig.h
+
+/Users/Tuncay/Desktop/T-CPP-710-Plazza_2018/Plazza/include/ParserConfig.h
+iostream
+-
+vector
+-
+fstream
+-
+../Error.cpp
+/Users/Tuncay/Desktop/T-CPP-710-Plazza_2018/Plazza/Error.cpp
+
+/Users/Tuncay/Desktop/T-CPP-710-Plazza_2018/Plazza/main.cpp
+iostream
+-
+ParserConfig.cpp
+/Users/Tuncay/Desktop/T-CPP-710-Plazza_2018/Plazza/ParserConfig.cpp
+
